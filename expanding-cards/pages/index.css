@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+@import url(../blocks/panels/panels.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/panel/panel.css);
+@import url(../blocks/panel/__header/panel__header.css);
+@import url(../blocks/panel/-active/panel-active.css);
+@import url(../blocks/container/container.css);
+
+

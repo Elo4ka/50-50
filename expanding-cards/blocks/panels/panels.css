@@ -1,0 +1,11 @@
+.panels {
+    display: flex;
+    margin: 0 auto;
+    width: 90vw;
+}
+
+@media(max-width: 480px) {
+    .panels {
+        width: 100vw;
+    }
+}
